@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohamed Mubarak
-- 👀 I’m interested in Data Science & Mobile app development
-- 🌱 I’m currently learning Deep learning
+- 👀 I’m interested in Data Science and Engineering 
 <!-- - 💞️ I’m looking to collaborate on Mobile app development and Machine learning projects -->
 - 📫 How to reach me Mo7amed754@gmail.com
 
